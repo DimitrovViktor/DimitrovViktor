@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Viktor
+💻 Open to work
+2024 Computer Science Graduate | C++ Developer | Backend & Full-Stack Enthusiast
 
-<!--
-**DimitrovViktor/DimitrovViktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### I’m currently
+- Improving my C++ skills through hands-on projects  
+- Becoming better at creating programs which solve real-world problems  
+- Developing my overall software engineering abilities, from backend logic to full-stack systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Technologies
+- **Languages:** C++, Python, Java  
+- **Tools & Frameworks:** Visual Studio, Git, Linux, CLI, SQLite  
+- **Concepts:** Data Structures & Algorithms, OOP, File Systems
