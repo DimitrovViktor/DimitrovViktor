@@ -1,5 +1,7 @@
 # Hi, I’m Viktor
+
 💻 Open to work
+
 2024 Computer Science Graduate | C++ Developer | Backend & Full-Stack Enthusiast
 
 ---
