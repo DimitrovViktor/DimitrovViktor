@@ -2,7 +2,7 @@
 
 💻 Open to work
 
-2024 Computer Science Graduate | Learning C++ | Backend & Full-Stack Enthusiast
+2024 Computer Science Graduate | Backend & Full-Stack Enthusiast
 
 ---
 
