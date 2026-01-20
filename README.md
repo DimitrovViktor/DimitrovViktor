@@ -1,19 +1,36 @@
-# Hi, I’m Viktor
+<h1 align="left">Viktor</h1>
 
-💻 Open to work
+###
 
-2024 Computer Science Graduate | Backend & Full-Stack Enthusiast
+<strong><code>2024 Computer Science Graduate | Backend & Full-Stack Development</code></strong>
 
----
+###
 
-### I’m currently
-- Improving my C++ skills through hands-on projects  
-- Becoming better at creating programs which solve real-world problems  
-- Developing my overall software engineering abilities, from backend logic to full-stack systems
+<h2 align="left">About me</h2>
 
----
+###
 
-### Tools & Technologies
-- **Languages:** C++, Python, Java  
-- **Tools & Frameworks:** Visual Studio, Git, Linux, CLI, SQLite  
-- **Concepts:** Data Structures & Algorithms, OOP, File Systems
+<p align="left">I’m a software developer focused on building practical applications that solve real-world problems. I work across backend and full-stack projects, taking ideas from initial design through implementation and iteration. I enjoy working both independently and in small teams, where clear communication and steady improvement lead to better results.</p>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
+
+###
+
+<p align="left">I focus on problem-solving and expanding my skill set when it leads to building better solutions.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
