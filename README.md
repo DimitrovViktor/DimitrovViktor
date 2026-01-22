@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I focus on problem-solving and expanding my skill set when it leads to building better solutions. I don’t limit myself to a specific language; the choice depends on the problem.</p>
+<p align="left">I don’t limit myself to a specific language; the choice depends on the problem.</p>
 
 ###
 
