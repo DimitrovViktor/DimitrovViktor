@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a software developer focused on building practical applications that solve real-world problems. I work across backend and full-stack projects, taking ideas from initial design through implementation and iteration. I enjoy working independently and in small teams, where clear communication and continuous improvement drive better results.</p>
+<p align="left">I’m a software developer focused on building practical applications that solve real-world problems. I work across backend and full-stack projects, taking ideas from initial design through implementation and iteration. I enjoy working both independently and in teams, where clear communication and continuous improvement drive better results.</p>
 
 ###
 
