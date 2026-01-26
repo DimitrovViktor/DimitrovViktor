@@ -16,9 +16,6 @@
 
 <h2 align="left">Languages and Tools</h2>
 
-###
-
-<p align="left">I don’t limit myself to a specific language; the choice depends on the problem.</p>
 
 ###
 
