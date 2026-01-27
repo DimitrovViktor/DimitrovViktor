@@ -2,7 +2,7 @@
 
 ###
 
-<strong><code>2024 Computer Science Graduate | Backend & Full-Stack Development</code></strong>
+<strong><code>Computer Science Graduate | Backend & Full-Stack Development</code></strong>
 
 ###
 
