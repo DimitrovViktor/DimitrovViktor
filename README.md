@@ -2,7 +2,7 @@
 
 ###
 
-<strong><code>Computer Science Graduate | Backend & Full-Stack Development</code></strong>
+<strong><code>Backend & Full-Stack Development</code></strong>
 
 ###
 
