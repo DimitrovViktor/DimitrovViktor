@@ -2,7 +2,9 @@
 
 ###
 
-<strong><code>Backend & Full-Stack Development</code></strong>
+<p align="left">
+  <strong>Focus:</strong> Backend & Full-Stack Development &nbsp;&bull;&nbsp; <strong>Website:</strong> <a href="https://dimitrovviktor.com" target="_blank">dimitrovviktor.com</a>
+</p>
 
 ###
 
