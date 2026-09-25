@@ -1,4 +1,4 @@
-<h1 align="left">Viktor</h1>
+<h1 align="left">Viktor Dimitrov</h1>
 
 ###
 
