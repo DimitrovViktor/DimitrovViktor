@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  <strong>Focus:</strong> Backend & Full-Stack Development &nbsp;&bull;&nbsp; <a href="https://dimitrovviktor.com" target="_blank">dimitrovviktor.com</a>
+Backend & Full-Stack Development &nbsp;&bull;&nbsp; <a href="https://dimitrovviktor.com" target="_blank">dimitrovviktor.com</a>
 </p>
 
 ###
