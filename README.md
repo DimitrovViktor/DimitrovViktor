@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Backend & Full-Stack Development &nbsp;&bull;&nbsp; <a href="https://dimitrovviktor.com" target="_blank">dimitrovviktor.com</a>
+Backend & Full Stack Development &nbsp;&bull;&nbsp; <a href="https://dimitrovviktor.com" target="_blank">dimitrovviktor.com</a>
 </p>
 
 ###
@@ -12,7 +12,7 @@ Backend & Full-Stack Development &nbsp;&bull;&nbsp; <a href="https://dimitrovvik
 
 ###
 
-<p align="left">I’m a software developer focused on building applications that solve real-world problems. I work across backend and full-stack projects. I enjoy working both independently and in teams, where clear communication and continuous improvement drive better results.</p>
+<p align="left">I’m a software developer focused on building applications that solve real world problems. I work across backend and full stack projects. I enjoy working both independently and in teams, where clear communication and continuous improvement drive better results.</p>
 
 ###
 
