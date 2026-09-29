@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Backend & Full Stack Development &nbsp;&bull;&nbsp; <a href="https://dimitrovviktor.com" target="_blank">dimitrovviktor.com</a>
+C++ Development &nbsp;&bull;&nbsp; <a href="https://dimitrovviktor.com" target="_blank">dimitrovviktor.com</a>
 </p>
 
 ###
