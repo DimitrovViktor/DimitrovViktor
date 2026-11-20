@@ -1,1 +1,1 @@
-![Viktor](viktor-readme.gif)](https://dimitrovviktor.com)
+![Viktor](bio.gif)](https://dimitrovviktor.com)
